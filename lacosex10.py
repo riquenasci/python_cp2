@@ -1,6 +1,9 @@
+
 import os
 os.system("cls")
  
+
+
 produto = input("Produto: ")
 preco = float(input("Preço: R$ "))
 estoque = int(input("Estoque inicial: "))
